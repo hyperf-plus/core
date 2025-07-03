@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-        "hyperf/hyperf": "^3.0"
+        "hyperf/hyperf": "^3.1"
     },
     "autoload": {
         "psr-4": {
