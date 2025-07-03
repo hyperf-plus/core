@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace HPlus\Core\Model;
 
-use YC\Open\Model\Model as BaseModel;
+use Hyperf\DbConnection\Model\Model as BaseModel;
 
 /**
  * HPlus核心Model基类
